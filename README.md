@@ -1,6 +1,6 @@
 # Kibanda Fashion Store Website
 
-![Website Banner](path-to-your-image-if-any)
+![Website Banner](assets/banner.png)
 
 ## Overview
 Kibanda Fashion Store is a **full-featured e-commerce website** focused on premium sneakers and clothing in the Kenyan market. This repository contains the complete frontend and backend code, ready to deploy and extend.
