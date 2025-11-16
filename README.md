@@ -36,4 +36,4 @@ Kibanda Fashion Store is a **full-featured e-commerce website** focused on premi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ERICMWANGI200/KIBANDA-FASHION-STORE-WEBSITE.git
+git clone https://github.com/techsoftguru/kibanda-fashion-website
